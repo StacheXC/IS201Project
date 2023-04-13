@@ -1,0 +1,66 @@
+body{
+    background-color: lightblue;
+}
+
+.header{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border: 5px solid black;
+}
+
+.body1{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid black;
+}
+
+.footer{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid black;
+    text-align: center;
+}
+
+.body2{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid black;
+}
+
+ol{
+    color: darkblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+ul{
+    color: rgb(28, 107, 255);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    color:darkblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    color:darkblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.link{
+    color:black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
